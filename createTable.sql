@@ -1,6 +1,6 @@
 -- 1. Create tables for the above list given
 
-use students;
+use guvi_task;
 -- /*courses*/
 CREATE TABLE courses(courseid INTEGER AUTO_INCREMENT PRIMARY KEY,coursename VARCHAR(100));
 
