@@ -1,3 +1,4 @@
+--  Question: Design DB model for Guvi Zen class
 use zenclass;
 
 -- /*USERS*/
